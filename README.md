@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Large Language Models Projects*](https://www.link.springer.com/book/10.1007/979-8-8688-0515-8) by Pere Martra Manonelles (Apress, 2024).
+This repository accompanies [*Large Language Models Projects*](https://link.springer.com/book/10.1007/979-8-8688-0515-8) by Pere Martra Manonelles (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](979-8-8688-0514-1.jpg)
